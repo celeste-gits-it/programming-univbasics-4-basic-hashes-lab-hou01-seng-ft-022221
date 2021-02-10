@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {pizza: "pineapple"}
+  my_hash = {key: "value"}
 end
 
 def pioneer
-  {name: 'Grace Hopper'}
+  pioneer = {name: 'Grace Hopper'}
 end
 
 
